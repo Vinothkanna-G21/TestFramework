@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "cc17c9040b4c75876e04a6981396b8b2"
+build_time: [1557409156, 115244000]
+inputs:
+  "/Users/ameex/Desktop/secondTestFramework/secondTestFramework/PersonalInfo.swift": [1557407147, 705284905]

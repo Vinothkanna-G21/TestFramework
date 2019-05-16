@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ameex/Library/Developer/Xcode/DerivedData/secondTestFramework-bzkjninzigsdfxccmobbvpzoanko/Build/Products/Debug-iphonesimulator/secondTestFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ameex/Desktop/secondTestFramework/build/secondTestFramework.build/Debug-iphonesimulator/secondTestFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

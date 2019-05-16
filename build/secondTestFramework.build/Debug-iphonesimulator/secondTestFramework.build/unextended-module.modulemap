@@ -1,0 +1,10 @@
+framework module secondTestFramework {
+  umbrella header "secondTestFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module secondTestFramework.__Swift {
+    exclude header "secondTestFramework-Swift.h"
+}
