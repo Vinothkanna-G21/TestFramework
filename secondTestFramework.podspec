@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'secondTestFramework'
-  spec.version       = '0.1.0'
+  spec.version       = '0.0.1'
   spec.license       = { :type => 'MIT' }
   spec.homepage      = 'https://github.com/tonymillion/Reachability'
   spec.authors       = { 'VinothkannaG' => 'vinod.kanna@npcompete.com' }
